@@ -1,27 +1,23 @@
-# AngularBlog
+# Blog com Angular - Bootcamp Santander 2023
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Bem-vindo ao projeto de criação de um blog utilizando Angular para o Bootcamp Santander 2023. 
+## Pré-requisitos
+Antes de começar, certifique-se de que você tenha o Node.js, o npm (gerenciador de pacotes Node.js), e o Angular, instalados em seu sistema.
 
-## Development server
+## Instalação
+1. Clone este repositório para o seu computador local utilizando:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+    git clone https://github.com/AngeloRegatieri/Projeto-Blog-Angular-Santander
 
-## Code scaffolding
+2. Após acessar o diretório do projeto, antes de executa-lo, instale as dependências do projeto utilizando:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+    npm install
 
-## Build
+3. Para executar o projeto, inicie o servidor de desenvolvimento Angular com o seguinte comando:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+    ng serve
 
-## Running unit tests
+## Conclusão
+Este é um projeto introdutório que me ajudou a aprender o básico do Angular, através do Bootcamp Santander 2023!
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Se tiver alguma dúvida ou precisar de ajuda, sinta-se a vontade para entrar em contato.
